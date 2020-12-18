@@ -1,4 +1,4 @@
-# Angular 11 + Spring Boot + MongoDB: Build CRUD example
+# Angular 11 + Spring Boot + MongoDB: Build a CRUD example
 
 For more details, please visit:
 [https://bezkoder.com/angular-11-spring-boot-mongodb/](https://bezkoder.com/angular-11-spring-boot-mongodb/)
